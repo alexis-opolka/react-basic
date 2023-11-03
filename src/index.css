@@ -1,0 +1,6 @@
+/* Create an warning box with a slight transparent red background and a warning icon*/
+.warning {
+  padding: 0.01em 16px;
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
